@@ -2,6 +2,8 @@
 Python prosjekter som er gjort på VG1
 
 
+
+
 ------- HANGMAN --------
 
 For å starte programmet, last ned filen og kjør det i et program som støtter .py
